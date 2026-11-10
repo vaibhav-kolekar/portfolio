@@ -1,5 +1,7 @@
 # Vaibhav Kolekar — Portfolio
 
+Live site: https://vaibhav-kolekar.github.io/portfolio/
+
 A premium, responsive, accessible, zero-build static portfolio. Based on the attached professional resume. No paid services, backend, Node.js, dependencies, or API keys required.
 
 ## Preview locally
@@ -8,13 +10,13 @@ Open `index.html` in a browser. Or run `python3 -m http.server 8000` in this dir
 
 ## Publish for free with GitHub Pages
 
-1. Create a **public** GitHub repository named `vaibhav-kolekar.github.io` (replace the placeholder with your actual GitHub username).
+1. This site lives in the public repository `vaibhav-kolekar/portfolio`.
 2. Upload the **contents** of this folder (`index.html`, `styles.css`, `script.js`, `assets/`, etc.) to the **root** of the repository. You can use GitHub's **Add file → Upload files**.
 3. In the repository, go to **Settings → Pages**.
 4. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/ (root)`, then click **Save**.
-5. Once deployment finishes, visit `https://vaibhav-kolekar.github.io/`. Publishing may take a few minutes.
+5. Once deployment finishes, visit `https://vaibhav-kolekar.github.io/portfolio/`. Publishing may take a few minutes.
 
-Alternatively, place these files at the root of any public repository and enable Pages; the URL will be `https://vaibhav-kolekar.github.io/REPOSITORY-NAME/`.
+Alternatively, place these files at the root of any public repository and enable Pages; the URL will be `https://vaibhav-kolekar.github.io/REPOSITORY-NAME/` (this repo: `/portfolio/`).
 
 ## Customize
 
