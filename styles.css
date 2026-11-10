@@ -10,3 +10,6 @@
 @media(max-width:900px){.nav nav{display:none;position:absolute;top:75px;left:0;right:0;background:#111a29;padding:25px;flex-direction:column;border-bottom:1px solid var(--line)}.nav nav.open{display:flex}.menu{display:block}.nav-resume{margin-left:auto}}
 @media(max-width:800px){.case-card{padding:28px 22px}.case-grid{grid-template-columns:1fr;gap:26px}.case-grid .case-col:nth-child(2){order:0}.principles{grid-template-columns:1fr 1fr}}
 @media(max-width:520px){.principles,.expertise-grid{grid-template-columns:1fr}.principle{padding:26px 22px}.case-head h3{font-size:25px}}
+
+.eyebrow{display:block;white-space:normal;line-height:1.9}.eyebrow .status-dot{vertical-align:middle;margin-right:10px}.eyebrow .eyebrow-line{display:inline-block;vertical-align:middle;margin:0 10px}
+.eyebrow .eyebrow-line{display:none}.eyebrow>span:last-child{display:block;margin-top:2px;padding-left:17px;white-space:nowrap}
